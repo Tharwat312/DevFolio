@@ -1,0 +1,84 @@
+header .content p::after {
+    content: " |";
+    animation-name: typing;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes typing {
+    0% {    content: " |";}
+    1% {    content: "D|";}
+    2% {    content: "De|";}
+    3% {    content: "Des|";}
+    4% {    content: "Desi|";}
+    5% {    content: "Desig|";}
+    6% {    content: "Design|";}
+    7% {    content: "Designe|";}
+    8% {    content: "Designer|";}
+    9% {    content: "Designer|";}
+    11% {    content: "Designe|";}
+    13% {    content: "Design|";}
+    15% {    content: "Desig|";}
+    17% {    content: "Desi|";}
+    19% {    content: "Des|";}
+    21% {    content: "De|";}
+    22% {    content: "Dev|";}
+    23% {    content: "Deve|";}
+    24% {    content: "Devel|";}
+    25% {    content: "Develo|";}
+    26% {    content: "Develop|";}
+    27% {    content: "Develope|";}  
+    28% {    content: "Developer|";}  
+    30% {    content: "Developer|";}  
+    32% {    content: "Develope|";}  
+    34% {    content: "Develop|";}  
+    35% {    content: "Develo|";}  
+    37% {    content: "Devel|";}  
+    39% {    content: "Deve|";}  
+    41% {    content: "Dev|";}  
+    43% {    content: "De|";}  
+    45% {    content: "D|";}  
+    46% {    content: "|";}  
+    47% {    content: "F|";}  
+    48% {    content: "Fr|";}  
+    49% {    content: "Fre|";}  
+    50% {    content: "Free|";}  
+    51% {    content: "Freel|";}  
+    52% {    content: "Freela|";}  
+    53% {    content: "Freelan|";}  
+    54% {    content: "Freelanc|";}  
+    55% {    content: "Freelance|";}  
+    56% {    content: "Freelancer|";}  
+    57% {    content: "Freelancer|";}  
+    59% {    content: "Freelance|";}  
+    61% {    content: "Freelanc|";}  
+    63% {    content: "Freelan|";}  
+    65% {    content: "Freela|";}  
+    67% {    content: "Freel|";}  
+    69% {    content: "Free|";}  
+    72% {    content: "Fre|";}  
+    74% {    content: "Fr|";}  
+    76% {    content: "F|";}  
+    78% {    content: "|";}  
+    79% {    content: "P|";}  
+    80% {    content: "Ph|";}  
+    81% {    content: "Pho|";}  
+    82% {    content: "Phot|";}  
+    83% {    content: "Photo|";}  
+    84% {    content: "Photog|";}  
+    85% {    content: "Photogr|";}  
+    86% {    content: "Photogra|";}  
+    87% {    content: "Photograp|";}  
+    88% {    content: "Photograph|";}  
+    89% {    content: "Photographe|";}  
+    90% {    content: "Photographer|";}  
+    91% {    content: "Photographe|";}  
+    92% {    content: "Photograph|";}  
+    93% {    content: "Photograp|";}  
+    94% {    content: "Photogra|";}  
+    95% {    content: "Photogr|";}  
+    96% {    content: "Photog|";}  
+    97% {    content: "Photo|";}  
+    98% {    content: "Phot|";}  
+    99% {    content: "Pho|";}  
+    100% {    content: "|";}  
+}

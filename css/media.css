@@ -1,0 +1,31 @@
+@media screen and (max-width: 992px) { 
+    
+    .navbar .navbar-nav .nav-item a::before {
+        display: none;
+    }
+    .navbar .navbar-nav {
+        text-align: center;
+        background-color: var(--light);
+    }
+    .navbar .navbar-nav .nav-item a {
+        color: var(--main-text-color);
+    }
+    .navbar .navbar-nav .nav-item a:hover {
+        color: var(--primary-color);
+    }
+}
+@media screen and (max-width: 768px) {
+    #aboutme .details .details-content {
+        justify-content: start !important;
+    }
+    .services-counter-content {
+        padding: 4.25rem 0;
+    }
+    h2 {
+        text-align: center;
+    }
+    #contact .contact-header h2::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
